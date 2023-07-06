@@ -1,0 +1,11 @@
+numpy
+pandas
+datetime
+time
+streamlit
+streamlit-option-menu
+plotly
+altair
+opencv-python
+tensorflow
+keras
