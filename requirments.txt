@@ -2,7 +2,7 @@ numpy
 pandas
 datetime
 streamlit
-streamlit-option-menu
+streamlit-option-menu==0.3.2
 plotly
 altair
 opencv-python
