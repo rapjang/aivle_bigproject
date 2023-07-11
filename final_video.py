@@ -51,7 +51,7 @@ def emotion():
     face_cascade = cv2.CascadeClassifier("./model/haarcascade_frontalface_default.xml")
     
     # Open Webcam
-    cap = cv2.VideoCapture("54.180.98.209:8501/video")
+    cap = cv2.VideoCapture("aivlebigproject-video.streamlit.app:8501/video")
     
     # Set the video capture resolution
     #cap.set(cv2.CAP_PROP_FRAME_WIDTH, 600)
